@@ -18,5 +18,5 @@ int main()
     }
   }
   printf("Largest element = %.2lf", arr[0]);
-  return 0;
+   return 0;
 }
