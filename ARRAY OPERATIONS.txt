@@ -1,12 +1,10 @@
  #include<stdlib.h>
 #include <stdio.h>
-     
 void create();
 void display();
 void insert_pos();
 void delete_pos();
 void marge_array();
- 
 struct node
 {
         int info;
@@ -16,7 +14,8 @@ struct node *start=NULL;
 int main()     
 {
         int choice;
-        while(1){
+        while(1)
+        {
                 printf("\npress 1 to Create. ");
                 printf("\npress 2 to Display.");
                 printf("\npress 3 to Insert at specified position.");
