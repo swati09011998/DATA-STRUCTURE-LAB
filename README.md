@@ -6,3 +6,4 @@
 ## Exp5: Write a program to create,delete,display and count the data in Singly Linked List.
 ## Exp6: Write a program to traverse a binary tree Pre-order, In-order, Post-order traversal techniques using Recursion.
 ## Exp7: "Write a menu-based program to perform the following array operations: a) Insertion of an element at a specified position b) Deletion of an element at a specified position c) Merge two sorted arrays".
+## Exp8: Write a menu-based program to implement stack operations: PUSH, POP using array implementation of stack.
