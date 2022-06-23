@@ -4,5 +4,5 @@
 ## Exp3: Find second maximum and second minimum of an input array.
 ## Exp4: Write a program to perform Matrix Operation like Addition,Substraction,Multiplication,Transpose of two  matrixes.
 ## Exp5: Write a program to create,delete,display and count the data in Singly Linked List.
-
+## Exp6: Write a program to traverse a binary tree Pre-order, In-order, Post-order traversal techniques using Recursion.
 
