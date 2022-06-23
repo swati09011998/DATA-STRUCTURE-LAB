@@ -1,0 +1,60 @@
+#include <stdio.h>
+#define M 5
+int s[M] ,T = -1;
+void PUSH(int,int[],int*,int);
+int POP(int[],int*);
+void main()
+{
+    int s[M] ,T = -1;
+    int n,c;
+    start:
+    printf("Press 1 for push a data into stack.");
+    printf("\nPress 2 for POP a data from stack.");
+    printf("\nPress 3 For exit");
+    printf("\nEnter your choice:->");
+    scanf("%d",&c);
+    switch(c)
+    {
+        case 1: 
+                printf("\nEnter a no. which you want to push into stack:->");
+                scanf("%d",&n);
+                PUSH(n,s,&T,M);
+                goto start;
+                
+        case 2:
+                n = POP(s,&T);
+                printf("\nThe Poped data of stack = %d",n);
+                goto start;
+        case 3:
+                break;
+        default:
+                printf("\nInvalid choice , try again");
+                goto start;
+    }
+}
+void PUSH( int Data,int STACK[],int *TOP,int MAX)
+{
+    if (*TOP==MAX-1)
+    printf("\nSTACK_OVERFLOW.");
+    else
+    {
+        *(TOP)++;
+        STACK[*TOP] = Data;
+    }
+}
+int POP(int STACK[],int*TOP)
+{
+    int temp;
+            if(*TOP==-1)
+            {
+                printf("\nSTACK_UNDERFLOW");
+                temp = NULL;
+            }
+            else
+            {
+                temp=STACK[*TOP];
+                STACK[*TOP] = NULL;
+                (*TOP)--;
+            }
+    return(temp);
+}
