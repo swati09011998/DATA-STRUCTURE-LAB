@@ -8,4 +8,4 @@
 ## Exp7: "Write a menu-based program to perform the following array operations: a) Insertion of an element at a specified position b) Deletion of an element at a specified position c) Merge two sorted arrays".
 ## Exp8: Write a menu-based program to implement stack operations: PUSH, POP using array implementation of stack.
 ## Exp9: Write a menu-based program using functions to implement stack operations: PUSH, POP using linked implementation of stack.
-## Exp10: Write a program to solve Towers of Hanoi Problem.
+## Exp10: Write a program to solve Towers of Hanoi Problem
