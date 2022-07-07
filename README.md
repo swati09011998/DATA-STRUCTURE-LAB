@@ -19,5 +19,5 @@
 ## Exp18: Write a program to implement the Bubble sort.
 ## Exp19: Write a program to implement the Quick sort.
 ## Exp20: Write a program to implement the Merge sort.
-## Exp20: Write a program to implement the Heap sort.
-## Exp20: Write a program to implement the Graph.
+## Exp21: Write a program to implement the Heap sort.
+## Exp22: Write a program to implement the Graph.
