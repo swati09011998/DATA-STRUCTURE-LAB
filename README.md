@@ -1,4 +1,4 @@
-# DATA-STRUCTURE-LAB:
+************** DATA-STRUCTURE-LAB:**************
 ## Exp1: Find  maximum of an input array.
 ## Exp2: Find  minimum of an input array.
 ## Exp3: Find second maximum and second minimum of an input array.
@@ -9,3 +9,15 @@
 ## Exp8: Write a menu-based program to implement stack operations: PUSH, POP using array implementation of stack.
 ## Exp9: Write a menu-based program using functions to implement stack operations: PUSH, POP using linked implementation of stack.
 ## Exp10: Write a program to solve Towers of Hanoi Problem
+## Exp11: Write a program to implement the Queue and its operations.
+## Exp12: Write a program to implement the circular Queue and its operations.
+## Exp13: Write a program to implement the DQueue and its operations.
+## Exp14: Write a program to implement the Linked list and its operations.
+## Exp15: Write a program to implement the BST.
+## Exp16: Write a program to implement the BST insertion process.
+## Exp17: Write a program to implement the Insertion sort.
+## Exp18: Write a program to implement the Bubble sort.
+## Exp19: Write a program to implement the Quick sort.
+## Exp20: Write a program to implement the Merge sort.
+## Exp20: Write a program to implement the Heap sort.
+## Exp20: Write a program to implement the Graph.
